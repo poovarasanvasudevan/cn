@@ -2197,7 +2197,6 @@ https://m3u-editor.com/serve/b7124000-12b7-11ec-a05f-9f1af4058929/376953203
 https://m3u-editor.com/serve/b7124000-12b7-11ec-a05f-9f1af4058929/376953207
 #EXTINF: -1 tvg-logo="http://jenohdtv.gq/wp-content/uploads/2019/11/Puthiya-Thalaimuri.png" group-title="TAMIL NEWS HD CHANNELS", Puthiyathalaimurai TV
 https://m3u-editor.com/serve/b7124000-12b7-11ec-a05f-9f1af4058929/376953208
-#EXTM3U
 #EXTINF:-1,iptvtools_1
 http://198.144.149.82:8080/NOTV/YAALTV/index.m3u8?token=GTR
 #EXTINF:-1,iptvtools_2
