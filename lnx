@@ -1993,3 +1993,6 @@ http://7starcloud.com:1935/live/arunaitv/playlist.m3u8
 http://hdserver.7starcloud.com:1935/ashoka/channel/playlist.m3u8
 #EXTINF:-1,iptvtools_15
 http://live.singamcloud.in:1935/krptv/krptv/playlist.m3u8
+#EXTINF:-1,Vijayhd
+http://212.224.98.213:2200/R-EX/TAMIL_STAR_VIJAY_HD-in/tracks-v1a1/mono.m3u8?token=RK
+http://212.224.98.213:2200/R-EX/TAMIL_STAR_VIJAY_HD-in/tracks-v1a1/mono.m3u8?token=RK
