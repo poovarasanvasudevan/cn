@@ -1,8 +1,19 @@
 #EXTM3U x-tvg-url="https://github.com/botallen/epg/releases/download/latest/epg.xml"
 
 # >> join telegram https://t.me/TamilLiveLinks  #
-#EXTM3U
-#EXTINF:-1 group-title="RASI NETWORKS",RASI TAMIL SAMAYAL COOKING LIFESTYLE
+#EXTINF:-1 tvg-id="1" tvg-logo="" group-title="RASI NETWORKS",RASI TV
+http://singamcloud.in:1935/rasinetworks/rasitv/playlist.m3u8
+#EXTINF:-1 tvg-id="1" tvg-logo="" group-title="RASI NETWORKS",RASI TAMIL
+http://singamcloud.in:1935/rasinetworks/rasitamil/playlist.m3u8
+#EXTINF:-1 tvg-id="1" tvg-logo="" group-title="RASI NETWORKS",RASI MUSIC
+http://singamcloud.in:1935/rasinetworks/rasimusic/playlist.m3u8
+#EXTINF:-1 tvg-id="1" tvg-logo="" group-title="RASI NETWORKS",RASI MOVIES
+http://singamcloud.in:1935/rasinetworks/rasimovies/playlist.m3u8
+#EXTINF:-1 tvg-id="1" tvg-logo="" group-title="RASI NETWORKS",RASI HOLLYWOOD
+http://singamcloud.in:1935/rasinetworks/rasihollywood/playlist.m3u8
+#EXTINF:-1 tvg-id="1" tvg-logo="" group-title="RASI NETWORKS",RASI CASSIC
+http://singamcloud.in:1935/rasinetworks/rasiclassic/playlist.m3u8
+#EXTINF:-1 tvg-id="1" tvg-logo="" group-title="RASI NETWORKS",RASI SAMAYAL
 http://singamcloud.in:1935/rasinetwork/cookings/playlist.m3u8
 #EXTINF:-1 group-title="TAMIL HD LOCAL CHANNELS&OTHER  COUNTRY CHANNELS" tvg-logo="https://tavapi.inditechman.com/extras/images/YAALTVLOGO.png",Yaal Tv
 http://198.144.149.82:8080/NOTV/YAALTV/index.m3u8?token=GTR
