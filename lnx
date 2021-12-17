@@ -25,6 +25,7 @@ http://singamcloud.in:1935/rasinetworks/rasihollywood/playlist.m3u8
 #EXTINF:-1 tvg-id="1" tvg-logo="" group-title="RASI NETWORKS",RASI CASSIC
 http://singamcloud.in:1935/rasinetworks/rasiclassic/playlist.m3u8
 #EXTINF:-1 tvg-id="1" tvg-logo="" group-title="RASI NETWORKS",RASI SAMAYAL
+http://singamcloud.in:1935/rasinetwork/cookings/playlist.m3u8
 #EXTINF:-1 group-title="TAMIL HD LOCAL CHANNELS&OTHER  COUNTRY CHANNELS" tvg-logo="https://tavapi.inditechman.com/extras/images/YAALTVLOGO.png",Yaal Tv
 http://198.144.149.82:8080/NOTV/YAALTV/index.m3u8?token=GTR
 #EXTINF:-1 group-title="TAMIL HD LOCAL CHANNELS&OTHER  COUNTRY CHANNELS" tvg-logo="https://tavapi.inditechman.com/extras/images/GTA-Tamil-Logo.png",GTA Tamil TV
