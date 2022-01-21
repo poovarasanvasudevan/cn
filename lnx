@@ -1,7 +1,5 @@
 #EXTM3U
 #Credits Goto = https://t.me/livetvtamil
-
-#EXTM3U
 #EXTINF:-1 ,Yaaltv
 http://198.144.149.82:8080/NOTV/YAALTV/index.m3u8?token=GTR
 #EXTINF:-1 ,7Star
@@ -236,7 +234,6 @@ http://live.tamilvision.tv:8081/TVI/SD/playlist.m3u8
 https://askmedia.livebox.co.in/DanComodyhls/9.m3u8
 #EXTINF:-1 ,SIRIPOLI
 http://103.199.161.254/Content/kalaignarsirippoli/Live/Channel(Kalaignarsirippoli)/index.m3u8
-#EXTM3U
 #EXTINF:0 type="stream" channelId="-1" logo="https://sund-images.sunnxt.com/14020/1000x1000_9dd88de4-18ab-493b-98fe-6eb27e9cbf5e.jpg" aspect-ratio="16:9", SUN TV
 https://techiesneh.in1.bitmana.io/snehapi/snxtapi/sneh-snxt/14020.m3u8
 #EXTINF:0 type="stream" channelId="1006" logo="https://sund-images.sunnxt.com/32138/1000x1000_84b30aac-654e-4dd5-b5ee-bd8204254735.jpg" aspect-ratio="16:9", K TV
@@ -373,7 +370,6 @@ http://7starcloud.com:1935/lotustv/lotustv/playlist.m3u8
 http://media.7starcloud.com:1935/erodekrishnatv/livestream/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1" aspect-ratio="1,85:1", Tamil Star TV
 http://stream.singamcloud.in:1935/tamilstartv/tamilstartv/playlist.m3u8
-#EXTM3U
 #EXTINF:-1 tvg-logo="https://singamcloud.com/tv/upload/1634099424_IMG_20211013_095844.jpg" , Thendral Tv
 https://iptelevision.in/hls/thendral.m3u8
 #EXTINF:-1 tvg-logo="https://singamcloud.com/tv/upload/1634043103_IMG_20211012_181922.jpg" , SSR TV
@@ -562,12 +558,7 @@ http://cdn.jwplayer.com/videos/1m0nMXhZ-3SDdwqdV.m3u8
 http://45.77.66.224:1935/athavantv/live_360p/chunklist_w305811568.m3u8
 #EXTINF:-1 tvg-logo="https://singamcloud.com/tv/upload/1622174946_aus tamil.png" , Aus Tamil
 https://bk7l2pn7dx53-hls-live.5centscdn.com/austamil/fe01ce2a7fbac8fafaed7c982a04e229.sdp/chunks.m3u8
-#EXTM3U
-#Credits Goto = https://t.me/livetvtamil
-
-
-
-
+#EXTINF:-1 tvg-logo="https://singamcloud.com/tv/upload/1622174946_aus tamil.png" , Aus Tamil
 http://singamcloud.in:1935/rasinetwork/cookings/playlist.m3u8
 #EXTINF:-1 tvg-id="1" tvg-logo="" group-title="RASI NETWORKS",SILVERSATTV
 http://7starcloud.com:1935/silversat/silversattv/playlist.m3u8
